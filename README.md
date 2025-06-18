@@ -30,7 +30,7 @@ The Task Tracker App is a user-friendly web application designed to help individ
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/ArpanSurin/Task-Tracker-Application.git
+git clone https://github.com/snehalsuman/Task-Tracker-Application.git
 ```
 
 2. Navigate to project directory.
